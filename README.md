@@ -1,5 +1,5 @@
 # ATOM-GameEngine
-Modular game engine for BlenderGame SDK
+Modular and extensible game engine
 
-This Game Engine is made to be used with the blender's generic game SDK (see https://github.com/ChevalFugace/BlenderGame-SDK/tree/master).
-It is modular and extensible, you disable or add your own module; addapt it to your needs.
+The ressources used by this engine can be edited by blender generic game SDK's (see https://github.com/ChevalFugace/BlenderGame-SDK/tree/master) stadardized interface .
+It is flexible, you can add or remove component so that it fits your game's need.
